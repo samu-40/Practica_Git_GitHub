@@ -1,0 +1,3 @@
+Voy a empezar a contar un poco de mi:
+
+Me llamo Samuel Arias y quiero ser Full-Stack developer. Ahora estoy empezando a ver Front-End para mas adelante ver Back-End y al final volverme developer Full-Stack.
